@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CommonUIAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 7dcbc8b714c409a4a8bb3fb05eb800a5, type: 3}
+    - {fileID: 2800000, guid: 502b32847a00d914591f3f971352f9fa, type: 3}
+    - {fileID: 2800000, guid: b1858dd28122ad3459269efc92903ef5, type: 3}
+    - {fileID: 2800000, guid: bb2bf8354548f5c4c98b9efb666edb92, type: 3}
+    - {fileID: 102900000, guid: 4af5483b9f9094c4eaad0c9d237bbb6f, type: 3}
+    - {fileID: 2800000, guid: c14681d5776f4f447ac332890fa9d10d, type: 3}
+    - {fileID: 2800000, guid: d8886d07ad84abe46977aa90a98283b9, type: 3}
+    - {fileID: 2800000, guid: bcc3c74c35e26264dacaf203b8e7cc55, type: 3}
+    - {fileID: 2800000, guid: bc63e3b416d33c7479ba41dd4a2c3c3c, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 37b53c814d405b441bf14bda6c192aa1: 21300000
+    - b1858dd28122ad3459269efc92903ef5: 21300000
+    - 502b32847a00d914591f3f971352f9fa: 21300000
+    - d4670ca4c1cf22243acc7d1c0c3c3d5c: 21300000
+    - bc63e3b416d33c7479ba41dd4a2c3c3c: 21300000
+    - bb2bf8354548f5c4c98b9efb666edb92: 21300000
+    - c14681d5776f4f447ac332890fa9d10d: 21300000
+    - 148bc2e5f2a96304cb8b7bd5d9eb9509: 21300000
+    - d8886d07ad84abe46977aa90a98283b9: 21300000
+    - 7dcbc8b714c409a4a8bb3fb05eb800a5: 21300000
+    - ac980ec733a2bd54ebb9a1f0c64eef15: 21300000
+    - bcc3c74c35e26264dacaf203b8e7cc55: 21300000
+    - a63ade0d68f0b84499d816bdb40b9594: 21300000
+    - 924e1b8d988c69c46b7e2859de8efb08: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 37b53c814d405b441bf14bda6c192aa1, type: 3}
+  - {fileID: 21300000, guid: b1858dd28122ad3459269efc92903ef5, type: 3}
+  - {fileID: 21300000, guid: 502b32847a00d914591f3f971352f9fa, type: 3}
+  - {fileID: 21300000, guid: d4670ca4c1cf22243acc7d1c0c3c3d5c, type: 3}
+  - {fileID: 21300000, guid: bc63e3b416d33c7479ba41dd4a2c3c3c, type: 3}
+  - {fileID: 21300000, guid: bb2bf8354548f5c4c98b9efb666edb92, type: 3}
+  - {fileID: 21300000, guid: c14681d5776f4f447ac332890fa9d10d, type: 3}
+  - {fileID: 21300000, guid: 148bc2e5f2a96304cb8b7bd5d9eb9509, type: 3}
+  - {fileID: 21300000, guid: d8886d07ad84abe46977aa90a98283b9, type: 3}
+  - {fileID: 21300000, guid: 7dcbc8b714c409a4a8bb3fb05eb800a5, type: 3}
+  - {fileID: 21300000, guid: ac980ec733a2bd54ebb9a1f0c64eef15, type: 3}
+  - {fileID: 21300000, guid: bcc3c74c35e26264dacaf203b8e7cc55, type: 3}
+  - {fileID: 21300000, guid: a63ade0d68f0b84499d816bdb40b9594, type: 3}
+  - {fileID: 21300000, guid: 924e1b8d988c69c46b7e2859de8efb08, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - icon_currency_energy
+  - icon_badge_epic
+  - icon_badge_rare
+  - icon_currency_blessing_ticket
+  - icon_element_wind
+  - icon_badge_legendary
+  - icon_element_earth
+  - icon_currency_noa_memory
+  - icon_element_fire
+  - icon_badge_common
+  - icon_currency_seed
+  - icon_element_water
+  - icon_currency_element
+  - frame_wood_thick
+  m_RenderDataMap: {}
+  m_Tag: CommonUIAtlas
+  m_IsVariant: 0

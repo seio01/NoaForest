@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BlessingIconAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: b85a5379c08f4be3b1a5886e5de072b1, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 41bb1b1159c783c4192e1cd6808f07d9: 21300000
+    - c5eae462297aec748a59fa4d01c636f5: 21300000
+    - 116cfd45ed1e3ef4c95d5addd02847c6: 21300000
+    - 531696d8293a68a44a51ed17bc963e2d: 21300000
+    - b9ddad395936ef24ea55200a64cd740e: 21300000
+    - 9342eb4b24cac1f4ab2316d7c6e04d9b: 21300000
+    - 11c952ac25acee54fba485c37ce8a03e: 21300000
+    - b5cd6d1ecf7226b4b9ddeeff5ddcff92: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 41bb1b1159c783c4192e1cd6808f07d9, type: 3}
+  - {fileID: 21300000, guid: c5eae462297aec748a59fa4d01c636f5, type: 3}
+  - {fileID: 21300000, guid: 116cfd45ed1e3ef4c95d5addd02847c6, type: 3}
+  - {fileID: 21300000, guid: 531696d8293a68a44a51ed17bc963e2d, type: 3}
+  - {fileID: 21300000, guid: b9ddad395936ef24ea55200a64cd740e, type: 3}
+  - {fileID: 21300000, guid: 9342eb4b24cac1f4ab2316d7c6e04d9b, type: 3}
+  - {fileID: 21300000, guid: 11c952ac25acee54fba485c37ce8a03e, type: 3}
+  - {fileID: 21300000, guid: b5cd6d1ecf7226b4b9ddeeff5ddcff92, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - blessing_crown_of_breath
+  - blessing_oath_of_stars
+  - blessing_seed_of_life
+  - blessing_purification_heart
+  - blessing_guardian_stone_of_earth
+  - blessing_cycle_stone
+  - blessing_whispering_wind
+  - blessing_branch_of_cycle
+  m_RenderDataMap: {}
+  m_Tag: BlessingIconAtlas
+  m_IsVariant: 0

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2fca76e0462ff024ba2aeeebfe14d2d2, type: 3}
+  m_Name: BlessingGroupSO
+  m_EditorClassIdentifier: 
+  blessings:
+  - {fileID: 11400000, guid: c6ff9fb5324aed14f95b7be0afd82669, type: 2}
+  - {fileID: 11400000, guid: b220b050c9269d24faff7adc8cf48486, type: 2}
+  - {fileID: 11400000, guid: bfe29345d71d592478bdfc92985c485e, type: 2}
+  - {fileID: 11400000, guid: af35b295fc43dd644a568063c92ef5ac, type: 2}
+  - {fileID: 11400000, guid: 20974f24b0fbb414f9e29ccbc365ae68, type: 2}
+  - {fileID: 11400000, guid: 1e85c61011533e5458b30fbd389239ba, type: 2}
+  - {fileID: 11400000, guid: 0508f684a637326469219aa7fa06ab74, type: 2}
+  - {fileID: 11400000, guid: c36ccc30c6d6bc345be6739eba16bf86, type: 2}
+  pieceCostsCommon: 020000000500000009000000
+  pieceCostsRare: 020000000400000007000000
+  pieceCostsEpic: 010000000300000005000000
+  pieceCostsLegendary: 010000000300000005000000

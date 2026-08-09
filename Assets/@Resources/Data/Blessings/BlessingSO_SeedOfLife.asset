@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3776b68f1eb0a9b4190a769ed9945c17, type: 3}
+  m_Name: BlessingSO_SeedOfLife
+  m_EditorClassIdentifier: 
+  id: blessing_seed_of_life
+  simplifiedDescriptionTemplate: "FLOW \uC885\uB8CC \uC2DC \uB098\uBB34 \uCCB4\uB825 {WaveEndHealBonus} \uD68C\uBCF5"
+  displayName: "\uC0DD\uBA85\uC758 \uC528\uC557"
+  description: "숲의 생명을 깨워 잃어버린 생명력을 회복시킵니다."
+  effectDescriptionTemplate: "FLOW 종료 시 정령 나무의 체력을 {WaveEndHealBonus} 회복합니다."
+  rarity: 1
+  category: 3
+  isUsable: 0
+  upgradeCosts: 04000000080000000d000000
+  effects:
+  - type: 3
+    levelValues:
+    - 3
+    - 5
+    - 7
+    - 10

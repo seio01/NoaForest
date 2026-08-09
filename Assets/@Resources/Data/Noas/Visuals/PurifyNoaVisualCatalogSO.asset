@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dd2998624b14595a8f7b9a9a12e2dc2, type: 3}
+  m_Name: PurifyNoaVisualCatalogSO
+  m_EditorClassIdentifier: 
+  noaVisualEntries:
+  - noaData: {fileID: 11400000, guid: 46189d57cc66eca44a9c34a6b2727226, type: 2}
+    noaVisual: {fileID: 11400000, guid: 173d3439a34c2ac4daa961a69d6c2ca2, type: 2}
+  - noaData: {fileID: 11400000, guid: a6dfd4298ed7d444796d77a55d8d1777, type: 2}
+    noaVisual: {fileID: 11400000, guid: 7d0768d635dfba840bf3b3b0ed329a0c, type: 2}
+  - noaData: {fileID: 11400000, guid: c20a946606152c54597845c6d603419a, type: 2}
+    noaVisual: {fileID: 11400000, guid: 6dc2c1ea6923e494f846d3c4d31c182b, type: 2}
+  - noaData: {fileID: 11400000, guid: d8acd0862970ac4429738249367ad933, type: 2}
+    noaVisual: {fileID: 11400000, guid: 96f9e18d93dda4d439f1a2652b914718, type: 2}
+  - noaData: {fileID: 11400000, guid: d02ecde6c13058a44972017dab2a2382, type: 2}
+    noaVisual: {fileID: 11400000, guid: 5e3df60fef3100e45a7d78b933ec9f54, type: 2}
+  - noaData: {fileID: 11400000, guid: 71c4b225c5b257942aa0719bdeafcf86, type: 2}
+    noaVisual: {fileID: 11400000, guid: 4f738865f9d66774cbf2c1f313124310, type: 2}
+  - noaData: {fileID: 11400000, guid: c765766d1e738ed4585e55fcf3aea928, type: 2}
+    noaVisual: {fileID: 11400000, guid: 162aec90c8489be48bba2cf60c885bf8, type: 2}
+  - noaData: {fileID: 11400000, guid: 8a97bbd42d594df48a9b5e99ac67d953, type: 2}
+    noaVisual: {fileID: 11400000, guid: fe1ee2c77fc138349a4de8daaece987a, type: 2}
+  - noaData: {fileID: 11400000, guid: eeead8644fed89449a3195a4b5b12686, type: 2}
+    noaVisual: {fileID: 11400000, guid: 3664256a579b3f249bb70fda598748d0, type: 2}
+  - noaData: {fileID: 11400000, guid: c3abb08debfb1454cb5fce4e37e97f0b, type: 2}
+    noaVisual: {fileID: 11400000, guid: 630171c6d1204a14992b8c44c6cfacd3, type: 2}
+  - noaData: {fileID: 11400000, guid: bafb9bf466c4ae94b8bbbfd0712285e4, type: 2}
+    noaVisual: {fileID: 11400000, guid: ff9638ac78fb5d549ae3b57c496d8ca9, type: 2}
+  - noaData: {fileID: 11400000, guid: b50c86b39e825634badfd0b7e90cf115, type: 2}
+    noaVisual: {fileID: 11400000, guid: 4ba9119963a899649ad19d2cdec36aa4, type: 2}

@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 4,
+  "parentDocument": {
+    "documentPath": "gameConfigs/purifyRewards",
+    "data": {
+      "enabled": true,
+      "schemaVersion": 4
+    }
+  },
+  "collectionPath": "gameConfigs/purifyRewards/stages",
+  "documents": [
+    {
+      "documentId": "stage_001",
+      "data": {
+        "stageId": "stage_001",
+        "enabled": true,
+        "configVersion": 4,
+        "maxFlow": 20,
+        "flowReward": {
+          "rewardType": "seed",
+          "amountPerCompletedFlow": 2
+        },
+        "clearRewards": [
+          {
+            "rewardType": "seed",
+            "amount": 10
+          },
+          {
+            "rewardType": "elementCore",
+            "amount": 1
+          }
+        ],
+        "firstClearRewards": [
+          {
+            "rewardType": "seed",
+            "amount": 30
+          },
+          {
+            "rewardType": "elementCore",
+            "amount": 2
+          }
+        ],
+        "resultRewards": [
+          {
+            "rewardType": "noaMemory",
+            "failCompletedFlowAmounts": [
+              {
+                "minimum": 0,
+                "amount": 3
+              },
+              {
+                "minimum": 10,
+                "amount": 4
+              },
+              {
+                "minimum": 15,
+                "amount": 5
+              }
+            ],
+            "clearAmount": 6
+          },
+          {
+            "rewardType": "elementCore",
+            "failCompletedFlowAmounts": [
+              {
+                "minimum": 6,
+                "amount": 1
+              },
+              {
+                "minimum": 11,
+                "amount": 2
+              },
+              {
+                "minimum": 16,
+                "amount": 3
+              }
+            ],
+            "clearAmount": 3
+          },
+          {
+            "rewardType": "blessingTicket",
+            "failCompletedFlowAmounts": [
+              {
+                "minimum": 11,
+                "amount": 1
+              },
+              {
+                "minimum": 16,
+                "amount": 2
+              }
+            ],
+            "clearAmount": 2
+          }
+        ],
+        "randomRewards": [],
+        "forestHpBonusEnabled": false
+      }
+    },
+    {
+      "documentId": "stage_002",
+      "data": {
+        "stageId": "stage_002",
+        "enabled": true,
+        "configVersion": 4,
+        "maxFlow": 20,
+        "flowReward": {
+          "rewardType": "seed",
+          "amountPerCompletedFlow": 3
+        },
+        "clearRewards": [
+          {
+            "rewardType": "seed",
+            "amount": 15
+          },
+          {
+            "rewardType": "elementCore",
+            "amount": 2
+          }
+        ],
+        "firstClearRewards": [
+          {
+            "rewardType": "seed",
+            "amount": 45
+          },
+          {
+            "rewardType": "elementCore",
+            "amount": 3
+          }
+        ],
+        "resultRewards": [
+          {
+            "rewardType": "noaMemory",
+            "failCompletedFlowAmounts": [
+              {
+                "minimum": 0,
+                "amount": 3
+              },
+              {
+                "minimum": 10,
+                "amount": 4
+              },
+              {
+                "minimum": 15,
+                "amount": 5
+              }
+            ],
+            "clearAmount": 6
+          },
+          {
+            "rewardType": "elementCore",
+            "failCompletedFlowAmounts": [
+              {
+                "minimum": 6,
+                "amount": 2
+              },
+              {
+                "minimum": 11,
+                "amount": 3
+              },
+              {
+                "minimum": 16,
+                "amount": 4
+              }
+            ],
+            "clearAmount": 4
+          },
+          {
+            "rewardType": "blessingTicket",
+            "failCompletedFlowAmounts": [
+              {
+                "minimum": 11,
+                "amount": 1
+              },
+              {
+                "minimum": 16,
+                "amount": 2
+              }
+            ],
+            "clearAmount": 2
+          }
+        ],
+        "randomRewards": [],
+        "forestHpBonusEnabled": false
+      }
+    }
+  ]
+}

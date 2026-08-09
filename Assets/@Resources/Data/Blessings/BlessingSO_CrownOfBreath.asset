@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3776b68f1eb0a9b4190a769ed9945c17, type: 3}
+  m_Name: BlessingSO_CrownOfBreath
+  m_EditorClassIdentifier: 
+  id: blessing_crown_of_breath
+  simplifiedDescriptionTemplate: "\uC232\uC758 \uC228\uACB0 \uCDA9\uC804 \uC2DC\uAC04 {ForestBreathChargeTimeReductionRate} \uAC10\uC18C"
+  displayName: "숨결의 화관"
+  description: "숲의 숨결을 품은 화관이 생명의 기운을 더 빠르게 순환시킵니다."
+  effectDescriptionTemplate: "숲의 숨결 충전 시간이 {ForestBreathChargeTimeReductionRate} 감소합니다."
+  rarity: 2
+  category: 4
+  isUsable: 0
+  upgradeCosts: 060000000c00000014000000
+  effects:
+  - type: 7
+    levelValues:
+    - 0.08
+    - 0.12
+    - 0.16
+    - 0.2

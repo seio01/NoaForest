@@ -1,0 +1,141 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MoteIconAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 8200270509384ba89996cf3726608b37, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 7e4bce1121d855843aac70f6aad5e3f6: -101000002
+    - 7e4bce1121d855843aac70f6aad5e3f6: -101000001
+    - 7e4bce1121d855843aac70f6aad5e3f6: -101000003
+    - fd5380816c1b4328be6f510bc45e8e15: 21300000
+    - 9887922362d1495ab48a88506e878192: 21300000
+    - bed5d3d6a3454a57b49a7418c58b8d88: -105000004
+    - bed5d3d6a3454a57b49a7418c58b8d88: -105000003
+    - bed5d3d6a3454a57b49a7418c58b8d88: -105000002
+    - bed5d3d6a3454a57b49a7418c58b8d88: -105000001
+    - bed5d3d6a3454a57b49a7418c58b8d88: -105000008
+    - bed5d3d6a3454a57b49a7418c58b8d88: -105000007
+    - bed5d3d6a3454a57b49a7418c58b8d88: -105000006
+    - bed5d3d6a3454a57b49a7418c58b8d88: -105000005
+    - bed5d3d6a3454a57b49a7418c58b8d88: -105000010
+    - bed5d3d6a3454a57b49a7418c58b8d88: -105000009
+    - bed5d3d6a3454a57b49a7418c58b8d88: -105000011
+    - bed5d3d6a3454a57b49a7418c58b8d88: -105000012
+    - faea77f9f429e6b4b819c5bd510712c3: -102000002
+    - faea77f9f429e6b4b819c5bd510712c3: -102000001
+    - faea77f9f429e6b4b819c5bd510712c3: -102000003
+    - 1c47f72b625514f45aedd469451ec67e: -292483736
+    - 1c47f72b625514f45aedd469451ec67e: -314896949
+    - 1c47f72b625514f45aedd469451ec67e: -282773809
+    - 8ff948abfe4641aeabfe4706e021023a: 21300000
+    - 17eeb20c116f426a874ca3dfe737c43a: 21300000
+    - 2aa7af2c6d964259a44e3548cb9ee262: 21300000
+    - 1b54f41de3bb09f40b8048d685ea79a6: -103000001
+    - 1b54f41de3bb09f40b8048d685ea79a6: -103000002
+    - 1b54f41de3bb09f40b8048d685ea79a6: -103000003
+    - a107c25e62b5ddb45bb332e6495fe0c6: -104000003
+    - a107c25e62b5ddb45bb332e6495fe0c6: -104000001
+    - a107c25e62b5ddb45bb332e6495fe0c6: -104000002
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -101000002, guid: 7e4bce1121d855843aac70f6aad5e3f6, type: 3}
+  - {fileID: -101000001, guid: 7e4bce1121d855843aac70f6aad5e3f6, type: 3}
+  - {fileID: -101000003, guid: 7e4bce1121d855843aac70f6aad5e3f6, type: 3}
+  - {fileID: 21300000, guid: fd5380816c1b4328be6f510bc45e8e15, type: 3}
+  - {fileID: 21300000, guid: 9887922362d1495ab48a88506e878192, type: 3}
+  - {fileID: -105000004, guid: bed5d3d6a3454a57b49a7418c58b8d88, type: 3}
+  - {fileID: -105000003, guid: bed5d3d6a3454a57b49a7418c58b8d88, type: 3}
+  - {fileID: -105000002, guid: bed5d3d6a3454a57b49a7418c58b8d88, type: 3}
+  - {fileID: -105000001, guid: bed5d3d6a3454a57b49a7418c58b8d88, type: 3}
+  - {fileID: -105000008, guid: bed5d3d6a3454a57b49a7418c58b8d88, type: 3}
+  - {fileID: -105000007, guid: bed5d3d6a3454a57b49a7418c58b8d88, type: 3}
+  - {fileID: -105000006, guid: bed5d3d6a3454a57b49a7418c58b8d88, type: 3}
+  - {fileID: -105000005, guid: bed5d3d6a3454a57b49a7418c58b8d88, type: 3}
+  - {fileID: -105000010, guid: bed5d3d6a3454a57b49a7418c58b8d88, type: 3}
+  - {fileID: -105000009, guid: bed5d3d6a3454a57b49a7418c58b8d88, type: 3}
+  - {fileID: -105000011, guid: bed5d3d6a3454a57b49a7418c58b8d88, type: 3}
+  - {fileID: -105000012, guid: bed5d3d6a3454a57b49a7418c58b8d88, type: 3}
+  - {fileID: -102000002, guid: faea77f9f429e6b4b819c5bd510712c3, type: 3}
+  - {fileID: -102000001, guid: faea77f9f429e6b4b819c5bd510712c3, type: 3}
+  - {fileID: -102000003, guid: faea77f9f429e6b4b819c5bd510712c3, type: 3}
+  - {fileID: -292483736, guid: 1c47f72b625514f45aedd469451ec67e, type: 3}
+  - {fileID: -314896949, guid: 1c47f72b625514f45aedd469451ec67e, type: 3}
+  - {fileID: -282773809, guid: 1c47f72b625514f45aedd469451ec67e, type: 3}
+  - {fileID: 21300000, guid: 8ff948abfe4641aeabfe4706e021023a, type: 3}
+  - {fileID: 21300000, guid: 17eeb20c116f426a874ca3dfe737c43a, type: 3}
+  - {fileID: 21300000, guid: 2aa7af2c6d964259a44e3548cb9ee262, type: 3}
+  - {fileID: -103000001, guid: 1b54f41de3bb09f40b8048d685ea79a6, type: 3}
+  - {fileID: -103000002, guid: 1b54f41de3bb09f40b8048d685ea79a6, type: 3}
+  - {fileID: -103000003, guid: 1b54f41de3bb09f40b8048d685ea79a6, type: 3}
+  - {fileID: -104000003, guid: a107c25e62b5ddb45bb332e6495fe0c6, type: 3}
+  - {fileID: -104000001, guid: a107c25e62b5ddb45bb332e6495fe0c6, type: 3}
+  - {fileID: -104000002, guid: a107c25e62b5ddb45bb332e6495fe0c6, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - mote_neutral_walk_3_1
+  - mote_neutral_walk_3_0
+  - mote_neutral_walk_3_2
+  - mote_water
+  - mote_earth
+  - mote_neutral_purify_12_3
+  - mote_neutral_purify_12_2
+  - mote_neutral_purify_12_1
+  - mote_neutral_purify_12_0
+  - mote_neutral_purify_12_7
+  - mote_neutral_purify_12_6
+  - mote_neutral_purify_12_5
+  - mote_neutral_purify_12_4
+  - mote_neutral_purify_12_9
+  - mote_neutral_purify_12_8
+  - mote_neutral_purify_12_10
+  - mote_neutral_purify_12_11
+  - mote_water_walk_3_1
+  - mote_water_walk_3_0
+  - mote_water_walk_3_2
+  - mote_earth_walk_3_2
+  - mote_earth_walk_3_0
+  - mote_earth_walk_3_1
+  - mote_wind
+  - mote_neutral
+  - mote_fire
+  - mote_fire_walk_3_0
+  - mote_fire_walk_3_1
+  - mote_fire_walk_3_2
+  - mote_wind_walk_3_2
+  - mote_wind_walk_3_0
+  - mote_wind_walk_3_1
+  m_RenderDataMap: {}
+  m_Tag: MoteIconAtlas
+  m_IsVariant: 0

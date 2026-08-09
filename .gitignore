@@ -1,0 +1,115 @@
+# =========================
+# Unity generated folders
+# =========================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Bb]inary/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# =========================
+# IDE / OS junk
+# =========================
+.vs/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# =========================
+# JetBrains Rider
+# =========================
+[Aa]ssets/Plugins/Editor/JetBrains*
+
+# =========================
+# Gradle / Android
+# =========================
+.gradle/
+*/il2cppOutput/
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# Firebase Android local dependency cache
+Assets/ExternalDependencyManager/
+Assets/Editor/m2repository/
+Assets/Firebase/m2repository/
+Assets/Firebase/m2repository.meta
+Assets/ExternalDependencyManager/Editor/m2repository/
+Assets/ExternalDependencyManager/Editor/m2repository.meta
+
+# Firebase project-specific app configuration
+Assets/google-services.json
+Assets/google-services.json.meta
+Assets/StreamingAssets/google-services-desktop.json
+Assets/StreamingAssets/google-services-desktop.json.meta
+Assets/Plugins/Android/FirebaseApp.androidlib/
+Assets/Plugins/Android/FirebaseApp.androidlib.meta
+
+# EDM4U generated local repo
+Assets/GeneratedLocalRepo/
+Assets/GeneratedLocalRepo.meta
+
+# =========================
+# Unity project files
+# =========================
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# =========================
+# Native Android libs (Firebase auto)
+# =========================
+*.aar
+*.aar.meta
+*.jar
+*.jar.meta
+
+# Firebase Editor native plugins for non-Windows platforms.
+# Windows Editor keeps Assets/Firebase/Plugins/x86_64/*.dll.
+Assets/Firebase/Plugins/x86_64/*.bundle
+Assets/Firebase/Plugins/x86_64/*.bundle.meta
+Assets/Firebase/Plugins/x86_64/*.so
+Assets/Firebase/Plugins/x86_64/*.so.meta
+
+# =========================
+# Crash / Reports
+# =========================
+sysinfo.txt
+crashlytics-build.properties
+
+# =========================
+# Addressables temp
+# =========================
+[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+[Aa]ssets/[Ss]treamingAssets/aa.meta
+[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# =========================
+# Paid Unity assets
+# =========================
+Assets/Plugins/Sirenix/
+Assets/Plugins/Sirenix.meta
+Assets/Plugins/Demigiant/DOTweenPro/
+Assets/Plugins/Demigiant/DOTweenPro.meta
+Assets/Plugins/Demigiant/DOTweenPro Examples/
+Assets/Plugins/Demigiant/DOTweenPro Examples.meta
+Assets/Plugins/Demigiant/readme_DOTweenPro.txt
+Assets/Plugins/Demigiant/readme_DOTweenPro.txt.meta

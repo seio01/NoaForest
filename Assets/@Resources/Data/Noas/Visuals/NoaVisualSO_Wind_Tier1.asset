@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba9a70ff16ddb0d4cbf2d17a679c14be, type: 3}
+  m_Name: NoaVisualSO_Wind_Tier1
+  m_EditorClassIdentifier: 
+  animatorControllerNoa: {fileID: 9100000, guid: cd736d97251f95f4aa2fca10111d5678, type: 2}
+  floatAttackAnimationDuration: 0.4
+  attackEffectPrefab: {fileID: 7831711116694810691, guid: 41a3717b3b9dda54d9ab36578afa44be, type: 3}
+  spriteAttackEffect: {fileID: 21300000, guid: e464b2cf1c81f5f4bb96e08748d28d70, type: 3}
+  animatorControllerAttackEffect: {fileID: 0}
+  particleTrailPrefab: {fileID: 4348817986860601866, guid: e57299fa25f6400eaa6420fb5244e8fb, type: 3}
+  colorParticleMin: {r: 0.95, g: 1, b: 0.8, a: 0.56}
+  colorParticleMax: {r: 0.7, g: 0.88, b: 0.48, a: 0.4}
+  floatTrailEmissionRate: 16
+  particleImpactPrefab: {fileID: 3770500208452621160, guid: 7225eced92514da5abc1025d07df0ecc, type: 3}
+  materialImpactParticle: {fileID: 2100000, guid: e1538807efaf4d899dfb6824c13c8f70, type: 2}
+  floatAttackEffectSpeed: 5
+  floatAttackEffectScale: 0.34
+  attackEffectFacingDirection: 1
+  impactEffectFacingDirection: 1
+  intEffectPoolCapacity: 32
+  attackSfx: 7

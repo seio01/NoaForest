@@ -1,0 +1,155 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5e8c21a3f9b4e4f8c1a2b3c4d5e6f70, type: 3}
+  m_Name: PurifyWaveSetSO_Stage2
+  m_EditorClassIdentifier:
+  waves:
+  - waveNumber: 1
+    moteCount: 10
+    spawnInterval: 1.4
+    duration: 16
+    healthMultiplier: 1
+    element: 0
+    clearRewardAmount: 8
+  - waveNumber: 2
+    moteCount: 11
+    spawnInterval: 1.4
+    duration: 16
+    healthMultiplier: 1.11
+    element: 0
+    clearRewardAmount: 8
+  - waveNumber: 3
+    moteCount: 12
+    spawnInterval: 1.3
+    duration: 16
+    healthMultiplier: 1.22
+    element: 0
+    clearRewardAmount: 6
+  - waveNumber: 4
+    moteCount: 13
+    spawnInterval: 1.3
+    duration: 16
+    healthMultiplier: 1.33
+    element: 0
+    clearRewardAmount: 6
+  - waveNumber: 5
+    moteCount: 15
+    spawnInterval: 1.2
+    duration: 18
+    healthMultiplier: 1.51
+    element: 4
+    clearRewardAmount: 20
+  - waveNumber: 6
+    moteCount: 13
+    spawnInterval: 1.3
+    duration: 17
+    healthMultiplier: 1.77
+    element: 0
+    clearRewardAmount: 5
+  - waveNumber: 7
+    moteCount: 14
+    spawnInterval: 1.3
+    duration: 18
+    healthMultiplier: 2.11
+    element: 0
+    clearRewardAmount: 5
+  - waveNumber: 8
+    moteCount: 15
+    spawnInterval: 1.2
+    duration: 18
+    healthMultiplier: 2.53
+    element: 0
+    clearRewardAmount: 5
+  - waveNumber: 9
+    moteCount: 16
+    spawnInterval: 1.2
+    duration: 19
+    healthMultiplier: 3.06
+    element: 0
+    clearRewardAmount: 5
+  - waveNumber: 10
+    moteCount: 18
+    spawnInterval: 1.1
+    duration: 20
+    healthMultiplier: 3.68
+    element: 3
+    clearRewardAmount: 20
+  - waveNumber: 11
+    moteCount: 16
+    spawnInterval: 1.2
+    duration: 19
+    healthMultiplier: 4.43
+    element: 0
+    clearRewardAmount: 5
+  - waveNumber: 12
+    moteCount: 17
+    spawnInterval: 1.2
+    duration: 20
+    healthMultiplier: 5.37
+    element: 0
+    clearRewardAmount: 5
+  - waveNumber: 13
+    moteCount: 18
+    spawnInterval: 1.1
+    duration: 20
+    healthMultiplier: 6.53
+    element: 0
+    clearRewardAmount: 5
+  - waveNumber: 14
+    moteCount: 19
+    spawnInterval: 1.1
+    duration: 21
+    healthMultiplier: 7.92
+    element: 0
+    clearRewardAmount: 5
+  - waveNumber: 15
+    moteCount: 22
+    spawnInterval: 1
+    duration: 22
+    healthMultiplier: 9.38
+    element: 1
+    clearRewardAmount: 20
+  - waveNumber: 16
+    moteCount: 20
+    spawnInterval: 1.1
+    duration: 22
+    healthMultiplier: 10.2
+    element: 0
+    clearRewardAmount: 6
+  - waveNumber: 17
+    moteCount: 22
+    spawnInterval: 1.1
+    duration: 25
+    healthMultiplier: 11.05
+    element: 0
+    clearRewardAmount: 6
+  - waveNumber: 18
+    moteCount: 24
+    spawnInterval: 1
+    duration: 24
+    healthMultiplier: 11.94
+    element: 0
+    clearRewardAmount: 6
+  - waveNumber: 19
+    moteCount: 27
+    spawnInterval: 1
+    duration: 27
+    healthMultiplier: 12.85
+    element: 0
+    clearRewardAmount: 6
+  - waveNumber: 20
+    moteCount: 30
+    spawnInterval: 1
+    duration: 31
+    healthMultiplier: 14
+    element: 2
+    clearRewardAmount: 14

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 864f42fc5c55c09489701b04fde39fef, type: 3}
+  m_Name: MoteSO_Neutral
+  m_EditorClassIdentifier: 
+  id: mote_neutral
+  displayName: "\uBB34\uC18D\uC131 \uBAA8\uD2B8"
+  description: "\uC232\uC758 \uADE0\uD615\uC744 \uD750\uB9AC\uB294 \uC77C\uBC18 \uC624\uC5FC\uCCB4."
+  element: 0
+  health: 36
+  moveSpeed: 0.24
+  escapeDamage: 2
+  killReward: 1
+  animatorControllerMote: {fileID: 22100000, guid: 6811de54d5bb55844b40a11b2da1c10b, type: 2}

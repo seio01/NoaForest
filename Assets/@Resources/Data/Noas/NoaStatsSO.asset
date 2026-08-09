@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9c786940daa6ba44a633656602ed988, type: 3}
+  m_Name: NoaStatsSO
+  m_EditorClassIdentifier: 
+  tierStats:
+  - tier: 1
+    purifyPower: 15
+    purifyInterval: 1
+    purifyRange: 0.88
+  - tier: 2
+    purifyPower: 33
+    purifyInterval: 1.1
+    purifyRange: 1.3
+  - tier: 3
+    purifyPower: 72
+    purifyInterval: 1.2
+    purifyRange: 1.95
+  levelStats:
+  - level: 1
+    purifyPowerBonus: 0
+    purifySpeedBonus: 0
+    upgradeCost: 100
+  - level: 2
+    purifyPowerBonus: 0.03
+    purifySpeedBonus: 0.02
+    upgradeCost: 200
+  - level: 3
+    purifyPowerBonus: 0.06
+    purifySpeedBonus: 0.04
+    upgradeCost: 300
+  - level: 4
+    purifyPowerBonus: 0.1
+    purifySpeedBonus: 0.06
+    upgradeCost: 500
+  - level: 5
+    purifyPowerBonus: 0.15
+    purifySpeedBonus: 0.08
+    upgradeCost: 700
+  - level: 6
+    purifyPowerBonus: 0.21
+    purifySpeedBonus: 0.1
+    upgradeCost: 1000
+  - level: 7
+    purifyPowerBonus: 0.28
+    purifySpeedBonus: 0.12
+    upgradeCost: 1400
+  - level: 8
+    purifyPowerBonus: 0.36
+    purifySpeedBonus: 0.14
+    upgradeCost: 1900
+  - level: 9
+    purifyPowerBonus: 0.45
+    purifySpeedBonus: 0.16
+    upgradeCost: 2500
+  - level: 10
+    purifyPowerBonus: 0.55
+    purifySpeedBonus: 0.2
+    upgradeCost: 0
+  elementAdvantageMultiplier: 1.25
+  elementDisadvantageMultiplier: 0.85
+  minimumPurifyInterval: 0.25
